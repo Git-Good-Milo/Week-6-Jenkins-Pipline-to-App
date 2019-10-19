@@ -29,4 +29,4 @@ sudo ufw allow 8080
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 # Installing ngrok
-#sudo npm i -g ngrok --unsafe-perm=true --allow-root
+sudo npm i -g ngrok --unsafe-perm=true --allow-root
